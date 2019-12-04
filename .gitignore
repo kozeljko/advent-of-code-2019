@@ -13,3 +13,6 @@ day03//.lein-*
 day03//.nrepl-port
 day03/.hgignore
 day03/.hg/
+
+# day04
+day04/*.class
