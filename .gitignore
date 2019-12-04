@@ -1,0 +1,15 @@
+# day02
+day02/*.class
+
+# day03
+day03/target
+day03/classes
+day03/checkouts
+day03/pom.xml
+day03/pom.xml.asc
+day03/*.jar
+day03/*.class
+day03//.lein-*
+day03//.nrepl-port
+day03/.hgignore
+day03/.hg/
