@@ -1,3 +1,5 @@
+.vscode/
+
 # day02
 day02/*.class
 
@@ -28,3 +30,6 @@ day07/*.class
 
 # day08
 day08/*.class
+
+# day09
+day09/*.class

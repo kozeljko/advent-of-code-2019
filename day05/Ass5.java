@@ -32,12 +32,6 @@ public class Ass5 {
         while (i < input.length) {
             //System.out.println(i);
             OpCode opCode = OpCode.createOpCode(input[i]);
-/*
-            System.out.println(printArray(input));
-            System.out.println(opCode.getOpCode());
-            System.out.println(opCode.isPositionModeAtParameter(1));
-            System.out.println(opCode.isPositionModeAtParameter(2));
-            System.out.println("=====");*/
 
             switch(opCode.getOpCode()) {
                 case 1:
